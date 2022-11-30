@@ -5,6 +5,8 @@
 
 A full stack social blog that can create posts/users/comments. This app uses express/node backend with a sql db utilizing mysql and sequelize. The html pages are templated with handlebars.
 
+https://afternoon-island-98476.herokuapp.com/
+
 ## Table of Contents
 
 * [Installation](#installation)

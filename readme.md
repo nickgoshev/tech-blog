@@ -7,6 +7,8 @@ A full stack social blog that can create posts/users/comments. This app uses exp
 
 https://afternoon-island-98476.herokuapp.com/
 
+![alt text](https://github.com/nickgoshev/tech-blog/blob/main/images/Screen%20Shot%202022-11-29%20at%206.27.36%20PM.png?raw=true)
+
 ## Table of Contents
 
 * [Installation](#installation)
